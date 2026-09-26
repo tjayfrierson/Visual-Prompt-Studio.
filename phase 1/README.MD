@@ -21,7 +21,7 @@ Assignment 1.1 explores how composition, lighting, and value can change the emot
 
 ---
 
-🎨 Assignment 1.2 – Digital Illustration
+ Assignment 1.2 – Digital Illustration
 
 Files Included
 
