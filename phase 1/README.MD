@@ -1,0 +1,1 @@
+Phase 1 - Visual Prompt Studio This folder contains all work completed for Phase 1 of Visual Prompt Studio, including prompts, posters, digital illustrations, and audio reflections. Each assignment demonstrates intentional design choices, creative development, and reflection on the artistic process.
